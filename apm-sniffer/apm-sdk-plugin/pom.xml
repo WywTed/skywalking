@@ -112,6 +112,7 @@
         <module>mssql-jdbc-plugin</module>
         <module>cxf-3.x-plugin</module>
         <module>jsonrpc4j-1.x-plugin</module>
+        <module>nacos-client-1.3.2.plus-plugin</module>
     </modules>
     <packaging>pom</packaging>
 
